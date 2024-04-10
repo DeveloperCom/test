@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Telegram Bot",
   "main": "test.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "start": "node test.js"
   },
