@@ -1,11 +1,11 @@
 {
-  "name": "isurl_bot",
+  "name": "test",
   "version": "1.0.0",
   "description": "Telegram Bot",
-  "main": "bot.js",
+  "main": "test.js",
   "type": "module",
   "scripts": {
-    "dev": "node bot.js"
+    "start": "node test.js"
   },
   "author": "Ayan Biswas",
   "license": "ISC",
